@@ -1,0 +1,4 @@
+Build number: 1
+Revision number: 1.0.3-release-1
+Build type: release
+Coverage: N/A
