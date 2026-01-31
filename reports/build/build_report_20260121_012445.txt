@@ -1,4 +1,0 @@
-Build number: 2
-Revision number: 1.0.3-debug-1
-Build type: debug
-Coverage: N/A

@@ -1,4 +1,0 @@
-Build number: 3
-Revision number: 1.0.3-coverage-1
-Build type: coverage
-Coverage: N/A
